@@ -1,3 +1,10 @@
+## Getting Set Up UPDATED 07-28-2018
+
+* install Bower dependencies via `bower install`
+* `npm install` and then chek in the terminal for WARNING messages, try to resole the ones which are not optional, I had to install additional dependencies
+* `npm install jasmine-core`
+* `npm install karma`
+
 # Up & Running with Angular
 
 This repo is for [Udacity](https://www.udacity.com/)'s Front End Frameworks course.

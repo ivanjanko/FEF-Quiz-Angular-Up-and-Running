@@ -1,7 +1,7 @@
 ## Getting Set Up UPDATED 07-28-2018
 
-* install Bower dependencies via `bower install`
-* `npm install` and then chek in the terminal for WARNING messages, try to resole the ones which are not optional, I had to install additional dependencies
+* `sudo npm install && bower install`
+* chek in the terminal for WARNING messages, try to resole the ones which are not optional, I had to install additional dependencies
 * `npm install jasmine-core`
 * `npm install karma`
 
